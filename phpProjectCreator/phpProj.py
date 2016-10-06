@@ -2,7 +2,10 @@
 
 import os, sys
 
-path = "testDir"
+#Ask user to enter a name of project
+projName = raw_input("Enter the name of project : ")
+
+path = projName
 os.mkdir(path, 0755)
 
-print "Path created."
+print "Directory",path,"Created."

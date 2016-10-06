@@ -1,0 +1,5 @@
+#This is a plan for PHP Project creator
+# Written in Pyhton
+
+1. Create a project directory -- Completed
+2. Accept directory name in parameter and create a project directory.
